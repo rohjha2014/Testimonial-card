@@ -9,7 +9,7 @@ const Card = (props) => {
     <div className='flex flex-col md:relative'>
        <div className='absolute top-[-7rem] mx-auto z-[10]'>
            <img className='aspect-square rounded-full w-[140px] h-[140px] z-[25]'
-            src={review.image}  />
+            src={review.image} alt={review.name} />
        
              <div className='w-[140px] h-[140px] bg-violet-500 rounded-full absolute top-[-6px]  z-[-10] left-[10px]'> </div>
 
