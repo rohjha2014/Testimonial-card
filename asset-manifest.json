@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rohjha2014/Testimonial-card.git/static/css/main.720da9d8.css",
+    "main.js": "/rohjha2014/Testimonial-card.git/static/js/main.8bd4943c.js",
+    "index.html": "/rohjha2014/Testimonial-card.git/index.html",
+    "main.720da9d8.css.map": "/rohjha2014/Testimonial-card.git/static/css/main.720da9d8.css.map",
+    "main.8bd4943c.js.map": "/rohjha2014/Testimonial-card.git/static/js/main.8bd4943c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.720da9d8.css",
+    "static/js/main.8bd4943c.js"
+  ]
+}
